@@ -7,7 +7,8 @@
 			<?php
 
 				//Including header meta here
-				include 'includes/common/template_header_navigation.php';
+				include 'includes/common/template_header_meta.php';
+
 			?>
 
 			<!-- Meta End -->
@@ -19,6 +20,7 @@
 
 				//Including header navigation here
 				include 'includes/common/template_header_navigation.php';
+				
 			?>
 
 			<!-- Navigation End -->
